@@ -7,6 +7,9 @@ Day/night cycle, vision restriction
 Vocal commands–only input is vocal command to direct players to locations and make adjustments 
 Puzzle games incorporated into gameplay
 
+GOOGLE DRIVE LINK FOR EXE:
+https://drive.google.com/drive/folders/1BN-0HfIZPDAG4qHp5xtOLEE_kcXl0T0o?usp=sharing
+
 KEYWORDS
         actions.Add("go to the ship", GoToShip);
         actions.Add("go to ship", GoToShip);
